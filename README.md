@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**Asiddev/asiddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Im Alex, based in Vancouver BC. I am a Full Stack developer with a strong passion and drive for technology. I am able to think creatively as well as problem solve and start from scratch with a wide range of skill sets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am looking for career opportunities that allow me to expand my creative mind. 
+
+I hope you like some of my projects. If you want to use something or ask me any questions feel free you message me anytime. 
+
+- 🔭 I’m currently working on personal project for trading
+- 🌱 I’m currently learning Angular/.NETcore
+
+
+
+
