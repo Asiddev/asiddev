@@ -8,7 +8,7 @@ I am looking for career opportunities that allow me to expand my creative mind.
 I hope you like some of my projects. If you want to use something or ask me any questions feel free you message me anytime. 
 
 - 🔭 I’m currently working on personal project for trading
-- 🌱 I’m currently learning Angular/.NETcore
+- 🌱 I’m currently learning Angular/.NETcore.
 
 
 
